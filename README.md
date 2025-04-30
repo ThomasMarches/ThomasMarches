@@ -42,7 +42,7 @@ Rust-specialized Software Engineer with more than 5 years of experience in backe
 
 ## 💻 Open Source Contributions
 
-- **[wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)**: Fixed an issue about returning functions returning async types ([PR #3059](https://github.com/rustwasm/wasm-bindgen/pull/3059))
+- **[wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)**: Fixed an issue about functions returning async types ([PR #3059](https://github.com/rustwasm/wasm-bindgen/pull/3059))
 
 ---
 

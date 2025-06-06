@@ -12,7 +12,7 @@
 
 Rust-specialized Software Engineer with more than 5 years of experience in backend development, WebAssembly integrations, and blockchain solutions. Passionate about building high-performance and scalable systems.
 
-- 🔭 Currently working as a **Freelance Rust Software Engineer** at **[Allfeat](http://github.com/Allfeat)**
+- 🔭 Currently working as a **Senior Rust Developer** at **Mantiq**
 - 🚀 Co-founder of **[NemaStudio](https://nemastudio.app/)**, a cloud-based music production platform
 
 ## 🛠️ Tech Stack

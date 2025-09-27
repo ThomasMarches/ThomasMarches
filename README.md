@@ -31,7 +31,7 @@ Rust-specialized Software Engineer with more than 5 years of experience in backe
 
 ### 🦀 Rust Ecosystem
 
-- **Frameworks & Libraries**: Tauri, EGUI, Axum, Actix, Rocket, Tokio, Clap, Wasm-bindgen, Subxt
+- **Frameworks & Libraries**: Leptos, SQLX, Tauri, EGUI, Axum, Actix, Rocket, Tokio, Clap, Wasm-bindgen, Subxt
 - **Blockchain**: Substrate, Ink!
 
 ## 🚀 Notable Projects

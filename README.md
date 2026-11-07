@@ -12,7 +12,6 @@
 
 Rust software engineer with 4+ years of experience (Rust since 2021) across backend services, WebAssembly, embedded systems and blockchain. Passionate about building high-performance, reliable systems.
 
-- 💼 Senior Rust Engineer at **Mantiq Technologies**: embedded and control software (autopilot, remote control, maintenance) for marine vessels and drones
 - 🔧 Maintainer of **[rig](https://github.com/0xPlaygrounds/rig)**'s integration with the official MCP Rust SDK (`rmcp`)
 - 🚀 Co-founder of **[NemaStudio](https://nemastudio.app/)**, a real-time collaborative audio workstation (Rust / WASM / CRDTs)
 - 📍 Based in France, open to remote work and relocation

@@ -12,10 +12,6 @@
 
 Rust software engineer with 4+ years of experience (Rust since 2021) across backend services, WebAssembly, embedded systems and blockchain. Passionate about building high-performance, reliable systems.
 
-- 🔧 Maintainer of **[rig](https://github.com/0xPlaygrounds/rig)**'s integration with the official MCP Rust SDK (`rmcp`)
-- 🚀 Co-founder of **[NemaStudio](https://nemastudio.app/)**, a real-time collaborative audio workstation (Rust / WASM / CRDTs)
-- 📍 Based in France, open to remote work and relocation
-
 ## 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
